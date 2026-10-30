@@ -1,0 +1,11 @@
+.gradle/
+build/
+run/
+.idea/
+*.iml
+.kotlin/
+
+/native/target/
+/native/android-bridge.dex
+/src/DroidBridge/classes/
+/src/DroidBridge/dex/
